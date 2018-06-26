@@ -1,4 +1,4 @@
-repo for personal website
+repo for my personal website
 
 
 https://yimeichen.github.io/LizChen/
